@@ -143,6 +143,8 @@
     font-size: 16px;
     font-weight: 400;
     font-family: var(--plus-jakarta-sans);
+    color: var(--secondary-color);
+    opacity: 0.5;
 }
 
 .hero-content__review {
